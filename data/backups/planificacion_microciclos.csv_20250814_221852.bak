@@ -1,0 +1,32 @@
+id_temporada,categoria,nombre_microciclo,dia,bloque,principio,principios
+27,Juvenil A,Semana 1,Lunes,inicial,RONDOS,RONDOS
+27,Juvenil A,Semana 1,Lunes,inicial,RONDOS TRANSICIÓN,RONDOS TRANSICIÓN
+27,Juvenil A,Semana 1,Lunes,situacional,RONDO POSICIONAL,RONDO POSICIONAL
+27,Juvenil A,Semana 1,Lunes,situacional,RONDOS,RONDOS
+27,Juvenil A,Semana 1,Lunes,global,RONDOS DESCARGA,RONDOS DESCARGA
+27,Juvenil A,Semana 1,Lunes,global,RONDOS TRANSICIÓN,RONDOS TRANSICIÓN
+28,Juvenil B,Semana 2,Lunes,inicial,Acción combinada,Acción combinada
+28,Juvenil B,Semana 2,Lunes,inicial,Principio,Principio
+28,Juvenil B,Semana 2,Lunes,situacional,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+28,Juvenil B,Semana 2,Lunes,situacional,ESTRATEGIA,ESTRATEGIA
+28,Juvenil B,Semana 2,Lunes,global,ESTRATEGIA,ESTRATEGIA
+28,Juvenil B,Semana 2,Lunes,global,RONDOS DESCARGA,RONDOS DESCARGA
+28,Juvenil B,Semana 2,Lunes,global_competitiva,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+28,Juvenil B,Semana 2,Lunes,global_competitiva,ESTRATEGIA,ESTRATEGIA
+28,Juvenil B,Semana 2,Lunes,final,Cambio ritmo,Cambio ritmo
+28,Juvenil B,Semana 2,Lunes,final,Ayuda permanente,Ayuda permanente
+28,Juvenil B,Semana 2,Martes,inicial,Cambio ritmo,Cambio ritmo
+28,Juvenil B,Semana 2,Martes,inicial,Ayuda permanente,Ayuda permanente
+28,Juvenil B,Semana 2,Martes,situacional,ESTRATEGIA,ESTRATEGIA
+28,Juvenil B,Semana 2,Martes,situacional,SISTEMA,SISTEMA
+28,Juvenil B,Semana 2,Martes,global,Pared,Pared
+28,Juvenil B,Semana 2,Martes,global,Juego directo,Juego directo
+28,Juvenil B,Semana 2,Martes,global_competitiva,ESTRATEGIA,ESTRATEGIA
+28,Juvenil B,Semana 2,Martes,global_competitiva,SISTEMA,SISTEMA
+28,Juvenil B,Semana 2,Martes,final,Pared,Pared
+28,Juvenil B,Semana 2,Martes,final,Juego directo,Juego directo
+28,Juvenil B,Semana 2,Miércoles,inicial,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+28,Juvenil B,Semana 2,Miércoles,inicial,ESTRATEGIA,ESTRATEGIA
+28,Juvenil B,Semana 2,Miércoles,inicial,SISTEMA,SISTEMA
+28,Juvenil B,Semana 2,Miércoles,situacional,Cambio ritmo,Cambio ritmo
+28,Juvenil B,Semana 2,Miércoles,situacional,Circulación,Circulación

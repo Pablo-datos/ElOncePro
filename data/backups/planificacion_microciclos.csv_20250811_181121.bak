@@ -1,0 +1,10 @@
+id_temporada,categoria,nombre_microciclo,dia,bloque,principio,principios
+32,Reserva / Equipo B,Semana 1,Viernes,inicial,SISTEMA,SISTEMA
+32,Reserva / Equipo B,Semana 1,Viernes,inicial,RONDOS,RONDOS
+32,Reserva / Equipo B,Semana 1,Viernes,situacional,ESTRATEGIA,ESTRATEGIA
+32,Reserva / Equipo B,Semana 1,Viernes,global,RONDOS,RONDOS
+32,Reserva / Equipo B,Semana 1,Viernes,global_competitiva,RONDOS TRANSICIÓN,RONDOS TRANSICIÓN
+32,Reserva / Equipo B,Semana 1,Viernes,global_competitiva,ESTRATEGIA,ESTRATEGIA
+32,Reserva / Equipo B,Semana 1,Viernes,final,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+32,Reserva / Equipo B,Semana 1,Viernes,final,ESTRATEGIA,ESTRATEGIA
+32,Reserva / Equipo B,Semana 1,Sábado,inicial,PARTIDO,PARTIDO

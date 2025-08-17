@@ -1,0 +1,136 @@
+id_temporada,categoria,nombre_microciclo,dia,bloque,principio,principios
+27,Juvenil A,Semana 1,Lunes,inicial,RONDOS,RONDOS
+27,Juvenil A,Semana 1,Lunes,inicial,RONDOS TRANSICIÓN,RONDOS TRANSICIÓN
+27,Juvenil A,Semana 1,Lunes,situacional,RONDO POSICIONAL,RONDO POSICIONAL
+27,Juvenil A,Semana 1,Lunes,situacional,RONDOS,RONDOS
+27,Juvenil A,Semana 1,Lunes,global,RONDOS DESCARGA,RONDOS DESCARGA
+27,Juvenil A,Semana 1,Lunes,global,RONDOS TRANSICIÓN,RONDOS TRANSICIÓN
+28,Juvenil B,Semana 2,Lunes,inicial,Acción combinada,Acción combinada
+28,Juvenil B,Semana 2,Lunes,inicial,Principio,Principio
+28,Juvenil B,Semana 2,Lunes,situacional,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+28,Juvenil B,Semana 2,Lunes,situacional,ESTRATEGIA,ESTRATEGIA
+28,Juvenil B,Semana 2,Lunes,global,ESTRATEGIA,ESTRATEGIA
+28,Juvenil B,Semana 2,Lunes,global,RONDOS DESCARGA,RONDOS DESCARGA
+28,Juvenil B,Semana 2,Lunes,global_competitiva,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+28,Juvenil B,Semana 2,Lunes,global_competitiva,ESTRATEGIA,ESTRATEGIA
+28,Juvenil B,Semana 2,Lunes,final,Cambio ritmo,Cambio ritmo
+28,Juvenil B,Semana 2,Lunes,final,Ayuda permanente,Ayuda permanente
+28,Juvenil B,Semana 2,Martes,inicial,Cambio ritmo,Cambio ritmo
+28,Juvenil B,Semana 2,Martes,inicial,Ayuda permanente,Ayuda permanente
+28,Juvenil B,Semana 2,Martes,situacional,ESTRATEGIA,ESTRATEGIA
+28,Juvenil B,Semana 2,Martes,situacional,SISTEMA,SISTEMA
+28,Juvenil B,Semana 2,Martes,global,Pared,Pared
+28,Juvenil B,Semana 2,Martes,global,Juego directo,Juego directo
+28,Juvenil B,Semana 2,Martes,global_competitiva,ESTRATEGIA,ESTRATEGIA
+28,Juvenil B,Semana 2,Martes,global_competitiva,SISTEMA,SISTEMA
+28,Juvenil B,Semana 2,Martes,final,Pared,Pared
+28,Juvenil B,Semana 2,Martes,final,Juego directo,Juego directo
+28,Juvenil B,Semana 2,Miércoles,inicial,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+28,Juvenil B,Semana 2,Miércoles,inicial,ESTRATEGIA,ESTRATEGIA
+28,Juvenil B,Semana 2,Miércoles,inicial,SISTEMA,SISTEMA
+28,Juvenil B,Semana 2,Miércoles,situacional,Cambio ritmo,Cambio ritmo
+28,Juvenil B,Semana 2,Miércoles,situacional,Circulación,Circulación
+29,Juvenil C,Semana 3,Jueves,inicial,SISTEMA,SISTEMA
+29,Juvenil C,Semana 3,Jueves,inicial,RONDOS DESCARGA,RONDOS DESCARGA
+29,Juvenil C,Semana 3,Jueves,inicial,ESTRATEGIA,ESTRATEGIA
+29,Juvenil C,Semana 3,Jueves,situacional,Ayuda permanente,Ayuda permanente
+29,Juvenil C,Semana 3,Jueves,situacional,Apoyo,Apoyo
+29,Juvenil C,Semana 3,Jueves,global,ESTRATEGIA,ESTRATEGIA
+29,Juvenil C,Semana 3,Jueves,global,PARTIDO,PARTIDO
+29,Juvenil C,Semana 3,Jueves,global_competitiva,SISTEMA,SISTEMA
+29,Juvenil C,Semana 3,Jueves,global_competitiva,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+29,Juvenil C,Semana 3,Jueves,final,Desmarque ruptura,Desmarque ruptura
+29,Juvenil C,Semana 3,Jueves,final,Desmarque apoyo,Desmarque apoyo
+29,Juvenil C,Semana 3,Viernes,inicial,ESTRATEGIA,ESTRATEGIA
+29,Juvenil C,Semana 3,Viernes,situacional,ESTRATEGIA,ESTRATEGIA
+29,Juvenil C,Semana 3,Viernes,global,Apoyo,Apoyo
+29,Juvenil C,Semana 3,Viernes,global_competitiva,Cambio ritmo,Cambio ritmo
+29,Juvenil C,Semana 3,Viernes,final,Pared,Pared
+29,Juvenil C,Semana 3,Sábado,inicial,Temporizar,Temporizar
+29,Juvenil C,Semana 3,Sábado,situacional,Conservación,Conservación
+29,Juvenil C,Semana 3,Sábado,global,Barrida,Barrida
+29,Juvenil C,Semana 3,Sábado,global_competitiva,Permuta,Permuta
+29,Juvenil C,Semana 3,Sábado,final,Conservación,Conservación
+29,Juvenil C,Semana 3,Domingo,inicial,Relevo,Relevo
+29,Juvenil C,Semana 3,Domingo,situacional,PARTIDO,PARTIDO
+29,Juvenil C,Semana 3,Domingo,global,PARTIDO,PARTIDO
+30,Juvenil D,Semana 4,Lunes,inicial,Posesión larga,Posesión larga
+30,Juvenil D,Semana 4,Lunes,inicial,Posesión corta,Posesión corta
+30,Juvenil D,Semana 4,Lunes,final,Cambio ritmo,Cambio ritmo
+30,Juvenil D,Semana 4,Lunes,final,Ayuda permanente,Ayuda permanente
+30,Juvenil D,Semana 4,Martes,inicial,Circulación,Circulación
+30,Juvenil D,Semana 4,Martes,inicial,Ayuda permanente,Ayuda permanente
+30,Juvenil D,Semana 4,Martes,situacional,SISTEMA,SISTEMA
+30,Juvenil D,Semana 4,Martes,situacional,RONDOS DESCARGA,RONDOS DESCARGA
+30,Juvenil D,Semana 4,Martes,global,Cambio ritmo,Cambio ritmo
+30,Juvenil D,Semana 4,Martes,global,Ayuda permanente,Ayuda permanente
+30,Juvenil D,Semana 4,Martes,global_competitiva,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+30,Juvenil D,Semana 4,Martes,global_competitiva,SISTEMA,SISTEMA
+30,Juvenil D,Semana 4,Martes,final,ESTRATEGIA,ESTRATEGIA
+30,Juvenil D,Semana 4,Martes,final,RONDOS DESCARGA,RONDOS DESCARGA
+30,Juvenil D,Semana 4,Domingo,inicial,Contraataque,Contraataque
+30,Juvenil D,Semana 4,Domingo,situacional,Desmarque apoyo,Desmarque apoyo
+32,Reserva / Equipo B,Semana 1,Lunes,inicial,Ritmo juego,Ritmo juego
+32,Reserva / Equipo B,Semana 1,Lunes,inicial,Relevo,Relevo
+32,Reserva / Equipo B,Semana 1,Lunes,inicial,Vigilancia,Vigilancia
+32,Reserva / Equipo B,Semana 1,Lunes,situacional,RONDOS,RONDOS
+32,Reserva / Equipo B,Semana 1,Lunes,situacional,RONDOS TRANSICIÓN,RONDOS TRANSICIÓN
+32,Reserva / Equipo B,Semana 1,Lunes,situacional,Ayuda permanente,Ayuda permanente
+32,Reserva / Equipo B,Semana 1,Lunes,situacional,Conservación,Conservación
+32,Reserva / Equipo B,Semana 1,Lunes,situacional,Crea espacios,Crea espacios
+32,Reserva / Equipo B,Semana 1,Lunes,situacional,Desmarque apoyo,Desmarque apoyo
+32,Reserva / Equipo B,Semana 1,Lunes,situacional,Pared,Pared
+32,Reserva / Equipo B,Semana 1,Lunes,global,SISTEMA,SISTEMA
+32,Reserva / Equipo B,Semana 1,Lunes,global,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+32,Reserva / Equipo B,Semana 1,Lunes,global,Cambio ritmo,Cambio ritmo
+32,Reserva / Equipo B,Semana 1,Lunes,global,Circulación,Circulación
+32,Reserva / Equipo B,Semana 1,Lunes,global,Crea espacios,Crea espacios
+32,Reserva / Equipo B,Semana 1,Lunes,global,Pared,Pared
+32,Reserva / Equipo B,Semana 1,Lunes,global_competitiva,PARTIDO,PARTIDO
+32,Reserva / Equipo B,Semana 1,Lunes,final,Cabeceo,Cabeceo
+32,Reserva / Equipo B,Semana 1,Lunes,final,Saques banda campo rival,Saques banda campo rival
+32,Reserva / Equipo B,Semana 5,Lunes,inicial,Cambio ritmo,Cambio ritmo
+32,Reserva / Equipo B,Semana 5,Lunes,inicial,Circulación,Circulación
+32,Reserva / Equipo B,Semana 5,Lunes,situacional,Conservación,Conservación
+32,Reserva / Equipo B,Semana 5,Lunes,situacional,Apoyo,Apoyo
+32,Reserva / Equipo B,Semana 5,Lunes,global,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+32,Reserva / Equipo B,Semana 5,Lunes,global_competitiva,RONDOS,RONDOS
+32,Reserva / Equipo B,Semana 5,Lunes,global_competitiva,ESTRATEGIA,ESTRATEGIA
+32,Reserva / Equipo B,Semana 5,Lunes,global_competitiva,PARTIDO,PARTIDO
+32,Reserva / Equipo B,Semana 5,Lunes,final,Temporizar,Temporizar
+32,Reserva / Equipo B,Semana 5,Martes,inicial,SISTEMA,SISTEMA
+32,Reserva / Equipo B,Semana 5,Martes,inicial,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+32,Reserva / Equipo B,Semana 5,Martes,situacional,SISTEMA,SISTEMA
+32,Reserva / Equipo B,Semana 5,Martes,situacional,ESTRATEGIA,ESTRATEGIA
+32,Reserva / Equipo B,Semana 5,Martes,global,SISTEMA,SISTEMA
+32,Reserva / Equipo B,Semana 5,Martes,global,ESTRATEGIA,ESTRATEGIA
+32,Reserva / Equipo B,Semana 5,Martes,global_competitiva,RONDOS DESCARGA,RONDOS DESCARGA
+32,Reserva / Equipo B,Semana 5,Martes,global_competitiva,ESTRATEGIA,ESTRATEGIA
+32,Reserva / Equipo B,Semana 5,Martes,final,ESTRATEGIA,ESTRATEGIA
+32,Reserva / Equipo B,Semana 5,Martes,final,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+17,Prebenjamín A,Semana 1,Lunes,inicial,RONDOS TRANSICIÓN,RONDOS TRANSICIÓN
+17,Prebenjamín A,Semana 1,Lunes,inicial,ESTRATEGIA,ESTRATEGIA
+17,Prebenjamín A,Semana 1,Martes,inicial,ESTRATEGIA,ESTRATEGIA
+17,Prebenjamín A,Semana 1,Martes,inicial,SISTEMA,SISTEMA
+17,Prebenjamín A,Semana 1,Martes,situacional,RONDOS DESCARGA,RONDOS DESCARGA
+17,Prebenjamín A,Semana 1,Martes,situacional,RONDOS TRANSICIÓN,RONDOS TRANSICIÓN
+21,Alevín A,Semana 1,Lunes,inicial,Ayuda permanente,Ayuda permanente
+21,Alevín A,Semana 1,Lunes,inicial,Apoyo,Apoyo
+21,Alevín A,Semana 1,Lunes,situacional,RONDOS DESCARGA,RONDOS DESCARGA
+21,Alevín A,Semana 1,Lunes,situacional,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+21,Alevín A,Semana 1,Lunes,global,RONDOS DESCARGA,RONDOS DESCARGA
+21,Alevín A,Semana 1,Lunes,global,ESTRATEGIA,ESTRATEGIA
+21,Alevín A,Semana 1,Lunes,global_competitiva,RONDOS DESCARGA,RONDOS DESCARGA
+21,Alevín A,Semana 1,Lunes,global_competitiva,SISTEMA,SISTEMA
+21,Alevín A,Semana 1,Lunes,final,RONDOS DESCARGA,RONDOS DESCARGA
+21,Alevín A,Semana 1,Lunes,final,ESTRATEGIA,ESTRATEGIA
+21,Alevín A,Semana 1,Martes,inicial,RONDOS DESCARGA,RONDOS DESCARGA
+21,Alevín A,Semana 1,Martes,inicial,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+21,Alevín A,Semana 1,Martes,situacional,SISTEMA,SISTEMA
+21,Alevín A,Semana 1,Martes,situacional,RONDOS DESCARGA,RONDOS DESCARGA
+21,Alevín A,Semana 1,Martes,global,Juego directo,Juego directo
+21,Alevín A,Semana 1,Martes,global,Desdoblamientos,Desdoblamientos
+21,Alevín A,Semana 1,Martes,global_competitiva,Principio,Principio
+21,Alevín A,Semana 1,Martes,global_competitiva,BALÓN PARADO,BALÓN PARADO
+21,Alevín A,Semana 1,Martes,final,SISTEMA,SISTEMA
+21,Alevín A,Semana 1,Martes,final,ESTRATEGIA,ESTRATEGIA

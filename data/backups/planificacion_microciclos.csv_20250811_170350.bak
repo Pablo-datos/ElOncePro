@@ -1,0 +1,88 @@
+id_temporada,nombre_microciclo,categoria,dia,bloque,principio,principios
+32,Semana 1,Reserva / Equipo B,Lunes,inicial,Conducción,Conducción
+32,Semana 1,Reserva / Equipo B,Lunes,inicial,Control,Control
+32,Semana 1,Reserva / Equipo B,Lunes,inicial,Regate,Regate
+32,Semana 1,Reserva / Equipo B,Lunes,inicial,1C1-2C2,1C1-2C2
+32,Semana 1,Reserva / Equipo B,Lunes,inicial,RONDOS,RONDOS
+32,Semana 1,Reserva / Equipo B,Lunes,situacional,Control,Control
+32,Semana 1,Reserva / Equipo B,Lunes,situacional,Pase medio,Pase medio
+32,Semana 1,Reserva / Equipo B,Lunes,situacional,Pared,Pared
+32,Semana 1,Reserva / Equipo B,Lunes,global,RONDOS,RONDOS
+32,Semana 1,Reserva / Equipo B,Lunes,global,RONDOS DESCARGA,RONDOS DESCARGA
+32,Semana 1,Reserva / Equipo B,Lunes,global,SISTEMA,SISTEMA
+32,Semana 1,Reserva / Equipo B,Lunes,global,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+32,Semana 1,Reserva / Equipo B,Lunes,global_competitiva,PARTIDO,PARTIDO
+32,Semana 1,Reserva / Equipo B,Lunes,global_competitiva,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+32,Semana 1,Reserva / Equipo B,Lunes,final,Saque de Banda,Saque de Banda
+32,Semana 1,Reserva / Equipo B,Martes,inicial,RONDOS,RONDOS
+32,Semana 1,Reserva / Equipo B,Martes,inicial,Juego directo,Juego directo
+32,Semana 1,Reserva / Equipo B,Martes,inicial,Desdoblamientos,Desdoblamientos
+32,Semana 1,Reserva / Equipo B,Martes,inicial,Posesión corta,Posesión corta
+32,Semana 1,Reserva / Equipo B,Martes,inicial,Pared,Pared
+32,Semana 1,Reserva / Equipo B,Martes,situacional,RONDO POSICIONAL,RONDO POSICIONAL
+32,Semana 1,Reserva / Equipo B,Martes,global,RONDOS DESCARGA,RONDOS DESCARGA
+32,Semana 1,Reserva / Equipo B,Martes,global_competitiva,SISTEMA,SISTEMA
+32,Semana 1,Reserva / Equipo B,Martes,global_competitiva,ESTRATEGIA,ESTRATEGIA
+32,Semana 1,Reserva / Equipo B,Martes,global_competitiva,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+32,Semana 1,Reserva / Equipo B,Martes,final,ESTRATEGIA,ESTRATEGIA
+32,Semana 1,Reserva / Equipo B,Miércoles,inicial,Circulación,Circulación
+32,Semana 1,Reserva / Equipo B,Miércoles,inicial,Cambio ritmo,Cambio ritmo
+32,Semana 1,Reserva / Equipo B,Miércoles,inicial,Ayuda permanente,Ayuda permanente
+32,Semana 1,Reserva / Equipo B,Miércoles,inicial,Apoyo,Apoyo
+32,Semana 1,Reserva / Equipo B,Miércoles,inicial,Acción combinada,Acción combinada
+32,Semana 1,Reserva / Equipo B,Miércoles,situacional,Crea espacios,Crea espacios
+32,Semana 1,Reserva / Equipo B,Miércoles,situacional,Contraataque,Contraataque
+32,Semana 1,Reserva / Equipo B,Miércoles,situacional,Conservación,Conservación
+32,Semana 1,Reserva / Equipo B,Miércoles,situacional,Circulación,Circulación
+32,Semana 1,Reserva / Equipo B,Miércoles,situacional,Ritmo juego,Ritmo juego
+32,Semana 1,Reserva / Equipo B,Miércoles,global,RONDOS TRANSICIÓN,RONDOS TRANSICIÓN
+32,Semana 1,Reserva / Equipo B,Miércoles,global,ESTRATEGIA,ESTRATEGIA
+32,Semana 1,Reserva / Equipo B,Miércoles,global,PARTIDO,PARTIDO
+32,Semana 1,Reserva / Equipo B,Miércoles,global,SISTEMA,SISTEMA
+32,Semana 1,Reserva / Equipo B,Miércoles,global_competitiva,RONDOS TRANSICIÓN,RONDOS TRANSICIÓN
+32,Semana 1,Reserva / Equipo B,Miércoles,global_competitiva,ESTRATEGIA,ESTRATEGIA
+32,Semana 1,Reserva / Equipo B,Miércoles,global_competitiva,BALÓN PARADO,BALÓN PARADO
+32,Semana 1,Reserva / Equipo B,Miércoles,global_competitiva,Circulación,Circulación
+32,Semana 1,Reserva / Equipo B,Miércoles,global_competitiva,Cambio ritmo,Cambio ritmo
+32,Semana 1,Reserva / Equipo B,Miércoles,final,Temporizar,Temporizar
+32,Semana 1,Reserva / Equipo B,Miércoles,final,Barrida,Barrida
+32,Semana 1,Reserva / Equipo B,Miércoles,final,Cobertura,Cobertura
+32,Semana 1,Reserva / Equipo B,Miércoles,final,Interceptación,Interceptación
+32,Semana 1,Reserva / Equipo B,Jueves,inicial,Temporizar,Temporizar
+32,Semana 1,Reserva / Equipo B,Jueves,inicial,Barrida,Barrida
+32,Semana 1,Reserva / Equipo B,Jueves,inicial,Anticipación,Anticipación
+32,Semana 1,Reserva / Equipo B,Jueves,inicial,Salida,Salida
+32,Semana 1,Reserva / Equipo B,Jueves,inicial,Ritmo juego,Ritmo juego
+32,Semana 1,Reserva / Equipo B,Jueves,situacional,Pared,Pared
+32,Semana 1,Reserva / Equipo B,Jueves,situacional,Posesión corta,Posesión corta
+32,Semana 1,Reserva / Equipo B,Jueves,situacional,Posesión larga,Posesión larga
+32,Semana 1,Reserva / Equipo B,Jueves,situacional,Relevo,Relevo
+32,Semana 1,Reserva / Equipo B,Jueves,global,Ayuda permanente,Ayuda permanente
+32,Semana 1,Reserva / Equipo B,Jueves,global,Circulación,Circulación
+32,Semana 1,Reserva / Equipo B,Jueves,global,Contraataque,Contraataque
+32,Semana 1,Reserva / Equipo B,Jueves,global_competitiva,Saques banda campo rival,Saques banda campo rival
+32,Semana 1,Reserva / Equipo B,Jueves,global_competitiva,Faltas directas,Faltas directas
+32,Semana 1,Reserva / Equipo B,Jueves,global_competitiva,Tiros de esquina,Tiros de esquina
+32,Semana 1,Reserva / Equipo B,Jueves,global_competitiva,Faltas indirectas,Faltas indirectas
+32,Semana 1,Reserva / Equipo B,Jueves,final,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+32,Semana 1,Reserva / Equipo B,Viernes,inicial,SISTEMA,SISTEMA
+32,Semana 1,Reserva / Equipo B,Viernes,inicial,RONDOS,RONDOS
+32,Semana 1,Reserva / Equipo B,Viernes,situacional,ESTRATEGIA,ESTRATEGIA
+32,Semana 1,Reserva / Equipo B,Viernes,global,RONDOS,RONDOS
+32,Semana 1,Reserva / Equipo B,Viernes,global_competitiva,RONDOS TRANSICIÓN,RONDOS TRANSICIÓN
+32,Semana 1,Reserva / Equipo B,Viernes,global_competitiva,ESTRATEGIA,ESTRATEGIA
+32,Semana 1,Reserva / Equipo B,Viernes,final,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+32,Semana 1,Reserva / Equipo B,Viernes,final,ESTRATEGIA,ESTRATEGIA
+32,Semana 1,Reserva / Equipo B,Sábado,inicial,PARTIDO,PARTIDO
+32,Semana 1,Reserva / Equipo B,Domingo,inicial,RONDOS,RONDOS
+32,Semana 1,Reserva / Equipo B,Domingo,inicial,RONDOS TRANSICIÓN,RONDOS TRANSICIÓN
+32,Semana 1,Reserva / Equipo B,Domingo,inicial,ESTRATEGIA,ESTRATEGIA
+32,Semana 1,Reserva / Equipo B,Domingo,situacional,RONDOS TRANSICIÓN,RONDOS TRANSICIÓN
+32,Semana 1,Reserva / Equipo B,Domingo,situacional,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+32,Semana 1,Reserva / Equipo B,Domingo,situacional,Circulación,Circulación
+32,Semana 1,Reserva / Equipo B,Domingo,situacional,Cambio ritmo,Cambio ritmo
+32,Semana 1,Reserva / Equipo B,Domingo,global,RONDOS TRANSICIÓN,RONDOS TRANSICIÓN
+32,Semana 1,Reserva / Equipo B,Domingo,global,ESTRATEGIA,ESTRATEGIA
+32,Semana 1,Reserva / Equipo B,Domingo,global,PARTIDO,PARTIDO
+32,Semana 1,Reserva / Equipo B,Domingo,global_competitiva,Pase filtrado,Pase filtrado
+32,Semana 1,Reserva / Equipo B,Domingo,global_competitiva,Pared,Pared

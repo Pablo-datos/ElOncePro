@@ -1,0 +1,269 @@
+id_temporada,categoria,nombre_microciclo,dia,bloque,principio,principios
+25,Cadete A,Semana 1,Lunes,inicial,Conducción,Conducción
+25,Cadete A,Semana 1,Lunes,inicial,Control,Control
+25,Cadete A,Semana 1,Lunes,inicial,Pase,Pase
+25,Cadete A,Semana 1,Lunes,inicial,Ritmo juego,Ritmo juego
+25,Cadete A,Semana 1,Lunes,inicial,Apoyo,Apoyo
+25,Cadete A,Semana 1,Lunes,inicial,RONDOS,RONDOS
+25,Cadete A,Semana 1,Lunes,inicial,Conservación,Conservación
+25,Cadete A,Semana 1,Lunes,inicial,Crea espacios,Crea espacios
+25,Cadete A,Semana 1,Lunes,situacional,RONDOS,RONDOS
+25,Cadete A,Semana 1,Lunes,situacional,RONDOS TRANSICIÓN,RONDOS TRANSICIÓN
+25,Cadete A,Semana 1,Lunes,situacional,1C1-2C2,1C1-2C2
+25,Cadete A,Semana 1,Lunes,situacional,Centro,Centro
+25,Cadete A,Semana 1,Lunes,situacional,Tiro,Tiro
+25,Cadete A,Semana 1,Lunes,global,RONDOS TRANSICIÓN,RONDOS TRANSICIÓN
+25,Cadete A,Semana 1,Lunes,global,RONDOS DESCARGA,RONDOS DESCARGA
+25,Cadete A,Semana 1,Lunes,global,SISTEMA,SISTEMA
+25,Cadete A,Semana 1,Lunes,global,Circulación,Circulación
+25,Cadete A,Semana 1,Lunes,global,Conservación,Conservación
+25,Cadete A,Semana 1,Lunes,global,Descarga,Descarga
+25,Cadete A,Semana 1,Lunes,global,Desdoblamientos,Desdoblamientos
+25,Cadete A,Semana 1,Lunes,global_competitiva,SISTEMA,SISTEMA
+25,Cadete A,Semana 1,Lunes,global_competitiva,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+25,Cadete A,Semana 1,Lunes,final,Saque de Banda,Saque de Banda
+25,Cadete A,Semana 1,Lunes,final,Cabeceo,Cabeceo
+25,Cadete A,Semana 1,Martes,inicial,Conservación,Conservación
+25,Cadete A,Semana 1,Martes,inicial,Crea espacios,Crea espacios
+25,Cadete A,Semana 1,Martes,inicial,Contraataque,Contraataque
+25,Cadete A,Semana 1,Martes,inicial,Circulación,Circulación
+25,Cadete A,Semana 1,Martes,inicial,Cambio ritmo,Cambio ritmo
+25,Cadete A,Semana 1,Martes,situacional,Posesión corta,Posesión corta
+25,Cadete A,Semana 1,Martes,situacional,Relevo,Relevo
+25,Cadete A,Semana 1,Martes,situacional,Posesión larga,Posesión larga
+25,Cadete A,Semana 1,Martes,situacional,Progresión,Progresión
+25,Cadete A,Semana 1,Martes,situacional,Pared,Pared
+25,Cadete A,Semana 1,Martes,global,Ayuda permanente,Ayuda permanente
+25,Cadete A,Semana 1,Martes,global,Apoyo,Apoyo
+25,Cadete A,Semana 1,Martes,global,Principio,Principio
+25,Cadete A,Semana 1,Martes,global,Acción combinada,Acción combinada
+25,Cadete A,Semana 1,Martes,global,Conservación,Conservación
+25,Cadete A,Semana 1,Martes,global_competitiva,BALÓN PARADO,BALÓN PARADO
+25,Cadete A,Semana 1,Martes,global_competitiva,PARTIDO,PARTIDO
+25,Cadete A,Semana 1,Martes,global_competitiva,Principio,Principio
+25,Cadete A,Semana 1,Martes,global_competitiva,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+25,Cadete A,Semana 1,Martes,final,Acción combinada,Acción combinada
+25,Cadete A,Semana 1,Martes,final,Ayuda permanente,Ayuda permanente
+25,Cadete A,Semana 1,Martes,final,Apoyo,Apoyo
+25,Cadete A,Semana 1,Martes,final,BALÓN PARADO,BALÓN PARADO
+25,Cadete A,Semana 1,Martes,final,PARTIDO,PARTIDO
+25,Cadete A,Semana 1,Martes,final,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+25,Cadete A,Semana 1,Miércoles,inicial,Penales,Penales
+25,Cadete A,Semana 1,Miércoles,inicial,Faltas indirectas,Faltas indirectas
+25,Cadete A,Semana 1,Miércoles,inicial,Saques banda campo rival,Saques banda campo rival
+25,Cadete A,Semana 1,Miércoles,inicial,Faltas directas,Faltas directas
+25,Cadete A,Semana 1,Miércoles,situacional,Conservación,Conservación
+25,Cadete A,Semana 1,Miércoles,situacional,Circulación,Circulación
+25,Cadete A,Semana 1,Miércoles,situacional,Cambio ritmo,Cambio ritmo
+25,Cadete A,Semana 1,Miércoles,situacional,Ayuda permanente,Ayuda permanente
+25,Cadete A,Semana 1,Miércoles,situacional,Apoyo,Apoyo
+25,Cadete A,Semana 1,Miércoles,global,ESTRATEGIA,ESTRATEGIA
+25,Cadete A,Semana 1,Miércoles,global,PARTIDO,PARTIDO
+25,Cadete A,Semana 1,Miércoles,global,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+25,Cadete A,Semana 1,Miércoles,global,SISTEMA,SISTEMA
+25,Cadete A,Semana 1,Miércoles,global,RONDOS TRANSICIÓN,RONDOS TRANSICIÓN
+25,Cadete A,Semana 1,Miércoles,global_competitiva,ESTRATEGIA,ESTRATEGIA
+25,Cadete A,Semana 1,Miércoles,global_competitiva,PARTIDO,PARTIDO
+25,Cadete A,Semana 1,Miércoles,global_competitiva,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+25,Cadete A,Semana 1,Miércoles,global_competitiva,RONDOS DESCARGA,RONDOS DESCARGA
+25,Cadete A,Semana 1,Miércoles,final,SISTEMA,SISTEMA
+25,Cadete A,Semana 1,Miércoles,final,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+25,Cadete A,Semana 1,Miércoles,final,PARTIDO,PARTIDO
+25,Cadete A,Semana 1,Miércoles,final,Principio,Principio
+25,Cadete A,Semana 1,Jueves,inicial,Principio,Principio
+25,Cadete A,Semana 1,Jueves,inicial,Apoyo,Apoyo
+25,Cadete A,Semana 1,Jueves,inicial,Cambio ritmo,Cambio ritmo
+25,Cadete A,Semana 1,Jueves,inicial,Ayuda permanente,Ayuda permanente
+25,Cadete A,Semana 1,Jueves,inicial,Acción combinada,Acción combinada
+25,Cadete A,Semana 1,Jueves,situacional,ESTRATEGIA,ESTRATEGIA
+25,Cadete A,Semana 1,Jueves,situacional,PARTIDO,PARTIDO
+25,Cadete A,Semana 1,Jueves,situacional,BALÓN PARADO,BALÓN PARADO
+25,Cadete A,Semana 1,Jueves,situacional,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+25,Cadete A,Semana 1,Jueves,situacional,Principio,Principio
+25,Cadete A,Semana 1,Jueves,situacional,RONDOS TRANSICIÓN,RONDOS TRANSICIÓN
+25,Cadete A,Semana 1,Jueves,situacional,Apoyo,Apoyo
+25,Cadete A,Semana 1,Jueves,global,Acción combinada,Acción combinada
+25,Cadete A,Semana 1,Jueves,global,Ayuda permanente,Ayuda permanente
+25,Cadete A,Semana 1,Jueves,global,Cambio ritmo,Cambio ritmo
+25,Cadete A,Semana 1,Jueves,global,Apoyo,Apoyo
+25,Cadete A,Semana 1,Jueves,global_competitiva,Principio,Principio
+25,Cadete A,Semana 1,Jueves,global_competitiva,Apoyo,Apoyo
+25,Cadete A,Semana 1,Jueves,global_competitiva,Cambio ritmo,Cambio ritmo
+25,Cadete A,Semana 1,Jueves,final,Principio,Principio
+25,Cadete A,Semana 1,Jueves,final,Apoyo,Apoyo
+25,Cadete A,Semana 1,Jueves,final,Cambio ritmo,Cambio ritmo
+25,Cadete A,Semana 1,Jueves,final,Ayuda permanente,Ayuda permanente
+25,Cadete A,Semana 1,Jueves,final,Circulación,Circulación
+25,Cadete A,Semana 1,Viernes,inicial,Acción combinada,Acción combinada
+25,Cadete A,Semana 1,Viernes,inicial,Principio,Principio
+25,Cadete A,Semana 1,Viernes,inicial,BALÓN PARADO,BALÓN PARADO
+25,Cadete A,Semana 1,Viernes,inicial,Apoyo,Apoyo
+25,Cadete A,Semana 1,Viernes,situacional,Principio,Principio
+25,Cadete A,Semana 1,Viernes,situacional,Ayuda permanente,Ayuda permanente
+25,Cadete A,Semana 1,Viernes,situacional,Acción combinada,Acción combinada
+25,Cadete A,Semana 1,Viernes,situacional,BALÓN PARADO,BALÓN PARADO
+25,Cadete A,Semana 1,Viernes,global,SISTEMA,SISTEMA
+25,Cadete A,Semana 1,Viernes,global,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+25,Cadete A,Semana 1,Viernes,global,PARTIDO,PARTIDO
+25,Cadete A,Semana 1,Viernes,global,Principio,Principio
+25,Cadete A,Semana 1,Viernes,global,Acción combinada,Acción combinada
+25,Cadete A,Semana 1,Viernes,global,ESTRATEGIA,ESTRATEGIA
+25,Cadete A,Semana 1,Viernes,global_competitiva,Contraataque,Contraataque
+25,Cadete A,Semana 1,Viernes,global_competitiva,Conservación,Conservación
+25,Cadete A,Semana 1,Viernes,global_competitiva,Circulación,Circulación
+25,Cadete A,Semana 1,Viernes,global_competitiva,Crea espacios,Crea espacios
+25,Cadete A,Semana 1,Viernes,global_competitiva,Cambio ritmo,Cambio ritmo
+25,Cadete A,Semana 1,Viernes,final,Circulación,Circulación
+25,Cadete A,Semana 1,Viernes,final,Cambio ritmo,Cambio ritmo
+25,Cadete A,Semana 1,Viernes,final,Ayuda permanente,Ayuda permanente
+25,Cadete A,Semana 1,Viernes,final,Apoyo,Apoyo
+25,Cadete A,Semana 1,Viernes,final,Conservación,Conservación
+25,Cadete A,Semana 1,Sábado,inicial,Descarga,Descarga
+25,Cadete A,Semana 1,Sábado,inicial,Desdoblamientos,Desdoblamientos
+25,Cadete A,Semana 1,Sábado,inicial,Desmarque ruptura,Desmarque ruptura
+25,Cadete A,Semana 1,Sábado,inicial,Desmarque apoyo,Desmarque apoyo
+25,Cadete A,Semana 1,Sábado,inicial,Juego directo,Juego directo
+25,Cadete A,Semana 1,Sábado,situacional,BALÓN PARADO,BALÓN PARADO
+25,Cadete A,Semana 1,Sábado,situacional,PARTIDO,PARTIDO
+25,Cadete A,Semana 1,Sábado,situacional,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+25,Cadete A,Semana 1,Sábado,global,ESTRATEGIA,ESTRATEGIA
+25,Cadete A,Semana 1,Sábado,global,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+25,Cadete A,Semana 1,Sábado,global,SISTEMA,SISTEMA
+25,Cadete A,Semana 1,Sábado,global,RONDOS DESCARGA,RONDOS DESCARGA
+25,Cadete A,Semana 1,Sábado,global,RONDOS TRANSICIÓN,RONDOS TRANSICIÓN
+25,Cadete A,Semana 1,Sábado,global_competitiva,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+25,Cadete A,Semana 1,Sábado,global_competitiva,PARTIDO,PARTIDO
+25,Cadete A,Semana 1,Sábado,global_competitiva,ESTRATEGIA,ESTRATEGIA
+25,Cadete A,Semana 1,Sábado,global_competitiva,SISTEMA,SISTEMA
+25,Cadete A,Semana 1,Sábado,global_competitiva,RONDOS DESCARGA,RONDOS DESCARGA
+25,Cadete A,Semana 1,Sábado,final,Acción combinada,Acción combinada
+25,Cadete A,Semana 1,Sábado,final,Principio,Principio
+25,Cadete A,Semana 1,Sábado,final,Apoyo,Apoyo
+25,Cadete A,Semana 1,Sábado,final,Conservación,Conservación
+25,Cadete A,Semana 1,Sábado,final,Crea espacios,Crea espacios
+25,Cadete A,Semana 1,Domingo,inicial,PARTIDO,PARTIDO
+25,Cadete A,Semana 1,Domingo,situacional,PARTIDO,PARTIDO
+25,Cadete A,Semana 1,Domingo,global,PARTIDO,PARTIDO
+25,Cadete A,Semana 1,Domingo,global_competitiva,PARTIDO,PARTIDO
+25,Cadete A,Semana 1,Domingo,final,PARTIDO,PARTIDO
+25,Cadete A,Semana 2,Lunes,inicial,Conducción,Conducción
+25,Cadete A,Semana 2,Lunes,inicial,Pase,Pase
+25,Cadete A,Semana 2,Lunes,inicial,Cabeceo,Cabeceo
+25,Cadete A,Semana 2,Lunes,situacional,RONDOS,RONDOS
+25,Cadete A,Semana 2,Lunes,situacional,Juego directo,Juego directo
+25,Cadete A,Semana 2,Lunes,global,RONDOS,RONDOS
+25,Cadete A,Semana 2,Lunes,global,RONDO POSICIONAL,RONDO POSICIONAL
+25,Cadete A,Semana 2,Lunes,global_competitiva,SISTEMA,SISTEMA
+25,Cadete A,Semana 2,Lunes,final,Salida,Salida
+25,Cadete A,Semana 2,Martes,inicial,Desmarque apoyo,Desmarque apoyo
+25,Cadete A,Semana 2,Martes,inicial,Desmarque ruptura,Desmarque ruptura
+25,Cadete A,Semana 2,Martes,inicial,Contraataque,Contraataque
+25,Cadete A,Semana 2,Martes,inicial,Conservación,Conservación
+25,Cadete A,Semana 2,Martes,situacional,Conservación,Conservación
+25,Cadete A,Semana 2,Martes,situacional,Circulación,Circulación
+25,Cadete A,Semana 2,Martes,situacional,Cambio ritmo,Cambio ritmo
+25,Cadete A,Semana 2,Martes,situacional,Contraataque,Contraataque
+25,Cadete A,Semana 2,Martes,global,ESTRATEGIA,ESTRATEGIA
+25,Cadete A,Semana 2,Martes,global,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+25,Cadete A,Semana 2,Martes,global,RONDOS DESCARGA,RONDOS DESCARGA
+25,Cadete A,Semana 2,Martes,global,SISTEMA,SISTEMA
+25,Cadete A,Semana 2,Martes,global,PARTIDO,PARTIDO
+25,Cadete A,Semana 2,Martes,global_competitiva,ESTRATEGIA,ESTRATEGIA
+25,Cadete A,Semana 2,Martes,global_competitiva,PARTIDO,PARTIDO
+25,Cadete A,Semana 2,Martes,global_competitiva,BALÓN PARADO,BALÓN PARADO
+25,Cadete A,Semana 2,Martes,global_competitiva,SISTEMA,SISTEMA
+25,Cadete A,Semana 2,Martes,global_competitiva,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+25,Cadete A,Semana 2,Martes,final,ESTRATEGIA,ESTRATEGIA
+25,Cadete A,Semana 2,Martes,final,PARTIDO,PARTIDO
+25,Cadete A,Semana 2,Martes,final,BALÓN PARADO,BALÓN PARADO
+25,Cadete A,Semana 2,Martes,final,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+25,Cadete A,Semana 2,Martes,final,SISTEMA,SISTEMA
+25,Cadete A,Semana 2,Miércoles,inicial,PARTIDO,PARTIDO
+25,Cadete A,Semana 2,Miércoles,inicial,ESTRATEGIA,ESTRATEGIA
+25,Cadete A,Semana 2,Miércoles,inicial,SISTEMA,SISTEMA
+25,Cadete A,Semana 2,Miércoles,inicial,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+25,Cadete A,Semana 2,Miércoles,inicial,Acción combinada,Acción combinada
+25,Cadete A,Semana 2,Miércoles,situacional,ESTRATEGIA,ESTRATEGIA
+25,Cadete A,Semana 2,Miércoles,situacional,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+25,Cadete A,Semana 2,Miércoles,situacional,RONDOS DESCARGA,RONDOS DESCARGA
+25,Cadete A,Semana 2,Miércoles,situacional,SISTEMA,SISTEMA
+25,Cadete A,Semana 2,Miércoles,situacional,PARTIDO,PARTIDO
+25,Cadete A,Semana 2,Miércoles,global,ESTRATEGIA,ESTRATEGIA
+25,Cadete A,Semana 2,Miércoles,global,PARTIDO,PARTIDO
+25,Cadete A,Semana 2,Miércoles,global,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+25,Cadete A,Semana 2,Miércoles,global,SISTEMA,SISTEMA
+25,Cadete A,Semana 2,Miércoles,global,BALÓN PARADO,BALÓN PARADO
+25,Cadete A,Semana 2,Miércoles,global_competitiva,ESTRATEGIA,ESTRATEGIA
+25,Cadete A,Semana 2,Miércoles,global_competitiva,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+25,Cadete A,Semana 2,Miércoles,global_competitiva,PARTIDO,PARTIDO
+25,Cadete A,Semana 2,Miércoles,global_competitiva,SISTEMA,SISTEMA
+25,Cadete A,Semana 2,Miércoles,global_competitiva,RONDOS DESCARGA,RONDOS DESCARGA
+25,Cadete A,Semana 2,Miércoles,final,SISTEMA,SISTEMA
+25,Cadete A,Semana 2,Miércoles,final,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+25,Cadete A,Semana 2,Miércoles,final,PARTIDO,PARTIDO
+25,Cadete A,Semana 2,Miércoles,final,BALÓN PARADO,BALÓN PARADO
+25,Cadete A,Semana 2,Jueves,inicial,ESTRATEGIA,ESTRATEGIA
+25,Cadete A,Semana 2,Jueves,inicial,PARTIDO,PARTIDO
+25,Cadete A,Semana 2,Jueves,inicial,BALÓN PARADO,BALÓN PARADO
+25,Cadete A,Semana 2,Jueves,inicial,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+25,Cadete A,Semana 2,Jueves,situacional,ESTRATEGIA,ESTRATEGIA
+25,Cadete A,Semana 2,Jueves,situacional,SISTEMA,SISTEMA
+25,Cadete A,Semana 2,Jueves,global,RONDOS DESCARGA,RONDOS DESCARGA
+25,Cadete A,Semana 2,Jueves,global,ESTRATEGIA,ESTRATEGIA
+25,Cadete A,Semana 2,Jueves,global,PARTIDO,PARTIDO
+25,Cadete A,Semana 2,Jueves,global,BALÓN PARADO,BALÓN PARADO
+25,Cadete A,Semana 2,Jueves,global_competitiva,SISTEMA,SISTEMA
+25,Cadete A,Semana 2,Jueves,global_competitiva,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+25,Cadete A,Semana 2,Jueves,global_competitiva,PARTIDO,PARTIDO
+25,Cadete A,Semana 2,Jueves,global_competitiva,ESTRATEGIA,ESTRATEGIA
+25,Cadete A,Semana 2,Jueves,final,ESTRATEGIA,ESTRATEGIA
+25,Cadete A,Semana 2,Jueves,final,RONDOS DESCARGA,RONDOS DESCARGA
+25,Cadete A,Semana 2,Jueves,final,SISTEMA,SISTEMA
+25,Cadete A,Semana 2,Jueves,final,RONDOS TRANSICIÓN,RONDOS TRANSICIÓN
+25,Cadete A,Semana 2,Jueves,final,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+25,Cadete A,Semana 2,Jueves,final,PARTIDO,PARTIDO
+25,Cadete A,Semana 2,Viernes,inicial,ESTRATEGIA,ESTRATEGIA
+25,Cadete A,Semana 2,Viernes,inicial,PARTIDO,PARTIDO
+25,Cadete A,Semana 2,Viernes,inicial,RONDOS DESCARGA,RONDOS DESCARGA
+25,Cadete A,Semana 2,Viernes,inicial,RONDOS TRANSICIÓN,RONDOS TRANSICIÓN
+25,Cadete A,Semana 2,Viernes,inicial,SISTEMA,SISTEMA
+25,Cadete A,Semana 2,Viernes,situacional,SISTEMA,SISTEMA
+25,Cadete A,Semana 2,Viernes,situacional,RONDOS DESCARGA,RONDOS DESCARGA
+25,Cadete A,Semana 2,Viernes,situacional,RONDOS TRANSICIÓN,RONDOS TRANSICIÓN
+25,Cadete A,Semana 2,Viernes,global,RONDOS DESCARGA,RONDOS DESCARGA
+25,Cadete A,Semana 2,Viernes,global,SISTEMA,SISTEMA
+25,Cadete A,Semana 2,Viernes,global,ESTRATEGIA,ESTRATEGIA
+25,Cadete A,Semana 2,Viernes,global_competitiva,SISTEMA,SISTEMA
+25,Cadete A,Semana 2,Viernes,global_competitiva,ESTRATEGIA,ESTRATEGIA
+25,Cadete A,Semana 2,Viernes,global_competitiva,PARTIDO,PARTIDO
+25,Cadete A,Semana 2,Viernes,final,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+25,Cadete A,Semana 2,Viernes,final,PARTIDO,PARTIDO
+25,Cadete A,Semana 2,Viernes,final,ESTRATEGIA,ESTRATEGIA
+25,Cadete A,Semana 2,Viernes,final,SISTEMA,SISTEMA
+25,Cadete A,Semana 2,Sábado,inicial,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+25,Cadete A,Semana 2,Sábado,inicial,SISTEMA,SISTEMA
+25,Cadete A,Semana 2,Sábado,inicial,RONDOS DESCARGA,RONDOS DESCARGA
+25,Cadete A,Semana 2,Sábado,inicial,ESTRATEGIA,ESTRATEGIA
+25,Cadete A,Semana 2,Sábado,inicial,RONDOS TRANSICIÓN,RONDOS TRANSICIÓN
+25,Cadete A,Semana 2,Sábado,inicial,Principio,Principio
+25,Cadete A,Semana 2,Sábado,inicial,Acción combinada,Acción combinada
+25,Cadete A,Semana 2,Sábado,situacional,RONDOS DESCARGA,RONDOS DESCARGA
+25,Cadete A,Semana 2,Sábado,situacional,PARTIDO,PARTIDO
+25,Cadete A,Semana 2,Sábado,situacional,ESTRATEGIA,ESTRATEGIA
+25,Cadete A,Semana 2,Sábado,situacional,SISTEMA,SISTEMA
+25,Cadete A,Semana 2,Sábado,global,SISTEMA,SISTEMA
+25,Cadete A,Semana 2,Sábado,global,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+25,Cadete A,Semana 2,Sábado,global,PARTIDO,PARTIDO
+25,Cadete A,Semana 2,Sábado,global,RONDOS DESCARGA,RONDOS DESCARGA
+25,Cadete A,Semana 2,Sábado,global,ESTRATEGIA,ESTRATEGIA
+25,Cadete A,Semana 2,Sábado,global_competitiva,RONDOS TRANSICIÓN,RONDOS TRANSICIÓN
+25,Cadete A,Semana 2,Sábado,global_competitiva,ESTRATEGIA,ESTRATEGIA
+25,Cadete A,Semana 2,Sábado,global_competitiva,PARTIDO,PARTIDO
+25,Cadete A,Semana 2,Sábado,final,SISTEMA,SISTEMA
+25,Cadete A,Semana 2,Sábado,final,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+25,Cadete A,Semana 2,Sábado,final,PARTIDO,PARTIDO
+25,Cadete A,Semana 2,Sábado,final,RONDOS DESCARGA,RONDOS DESCARGA
+25,Cadete A,Semana 2,Domingo,inicial,PARTIDO,PARTIDO
+25,Cadete A,Semana 2,Domingo,situacional,PARTIDO,PARTIDO
+25,Cadete A,Semana 2,Domingo,global,PARTIDO,PARTIDO
+25,Cadete A,Semana 2,Domingo,global_competitiva,PARTIDO,PARTIDO

@@ -1,0 +1,39 @@
+id_temporada,categoria,nombre_microciclo,dia,bloque,principio,principios
+32,Reserva / Equipo B,Semana 1,Viernes,inicial,SISTEMA,SISTEMA
+32,Reserva / Equipo B,Semana 1,Viernes,inicial,RONDOS,RONDOS
+32,Reserva / Equipo B,Semana 1,Viernes,situacional,ESTRATEGIA,ESTRATEGIA
+32,Reserva / Equipo B,Semana 1,Viernes,global,RONDOS,RONDOS
+32,Reserva / Equipo B,Semana 1,Viernes,global_competitiva,RONDOS TRANSICIÓN,RONDOS TRANSICIÓN
+32,Reserva / Equipo B,Semana 1,Viernes,global_competitiva,ESTRATEGIA,ESTRATEGIA
+32,Reserva / Equipo B,Semana 1,Viernes,final,PARTIDOS REDUCIDOS,PARTIDOS REDUCIDOS
+32,Reserva / Equipo B,Semana 1,Viernes,final,ESTRATEGIA,ESTRATEGIA
+32,Reserva / Equipo B,Semana 1,Sábado,inicial,PARTIDO,PARTIDO
+16,Reserva / Equipo B,Semana 1,Miércoles,inicial,Pared,Pared
+16,Reserva / Equipo B,Semana 1,Miércoles,inicial,Juego directo,Juego directo
+16,Reserva / Equipo B,Semana 1,Miércoles,situacional,Progresión,Progresión
+16,Reserva / Equipo B,Semana 1,Miércoles,situacional,Posesión larga,Posesión larga
+16,Reserva / Equipo B,Semana 1,Miércoles,global,Salida,Salida
+16,Reserva / Equipo B,Semana 1,Miércoles,global,Anticipación,Anticipación
+16,Reserva / Equipo B,Semana 1,Miércoles,global_competitiva,Salida,Salida
+16,Reserva / Equipo B,Semana 1,Miércoles,global_competitiva,Ritmo juego,Ritmo juego
+16,Reserva / Equipo B,Semana 1,Miércoles,final,Pared,Pared
+16,Reserva / Equipo B,Semana 1,Viernes,inicial,Circulación,Circulación
+16,Reserva / Equipo B,Semana 1,Viernes,inicial,Cambio ritmo,Cambio ritmo
+16,Reserva / Equipo B,Semana 1,Viernes,situacional,Apoyo,Apoyo
+16,Reserva / Equipo B,Semana 1,Viernes,situacional,Ayuda permanente,Ayuda permanente
+16,Reserva / Equipo B,Semana 1,Viernes,global,Apoyo,Apoyo
+16,Reserva / Equipo B,Semana 1,Viernes,global,Acción combinada,Acción combinada
+16,Reserva / Equipo B,Semana 1,Viernes,global_competitiva,Pared,Pared
+16,Reserva / Equipo B,Semana 1,Viernes,global_competitiva,Juego directo,Juego directo
+16,Reserva / Equipo B,Semana 1,Viernes,final,Pared,Pared
+16,Reserva / Equipo B,Semana 1,Viernes,final,Juego directo,Juego directo
+16,Reserva / Equipo B,Semana 1,Sábado,inicial,Desdoblamientos,Desdoblamientos
+16,Reserva / Equipo B,Semana 1,Sábado,inicial,Juego directo,Juego directo
+16,Reserva / Equipo B,Semana 1,Sábado,situacional,Ayuda permanente,Ayuda permanente
+16,Reserva / Equipo B,Semana 1,Sábado,situacional,Acción combinada,Acción combinada
+16,Reserva / Equipo B,Semana 1,Sábado,situacional,Circulación,Circulación
+16,Reserva / Equipo B,Semana 1,Sábado,global,RONDOS DESCARGA,RONDOS DESCARGA
+16,Reserva / Equipo B,Semana 1,Sábado,global_competitiva,Cambio ritmo,Cambio ritmo
+16,Reserva / Equipo B,Semana 1,Sábado,global_competitiva,Ayuda permanente,Ayuda permanente
+16,Reserva / Equipo B,Semana 1,Sábado,final,Ayuda permanente,Ayuda permanente
+16,Reserva / Equipo B,Semana 1,Sábado,final,Apoyo,Apoyo

@@ -1,0 +1,2 @@
+usuario,password,rol,nombre_completo,email,fecha_creacion,activo
+admin,$2b$12$1oI2PwShyVHfvGdNYy7FLOxi4GpHFJWgAqA1QrgbfLcuUtnhx8hh.,admin,Administrador,admin@sistema.com,2025-08-04 20:17:44,True

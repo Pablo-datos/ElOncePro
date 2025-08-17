@@ -1,0 +1,62 @@
+id_principio,principio,categoría,zonas_sugeridas,transferencia_tactica
+PRIN001,RONDOS,Técnica Aplicada,ZONA CENTRAL,"Ejercicios de una forma definida, mantener la posesión del balón y tendrán un rival."
+PRIN002,RONDO POSICIONAL,Técnica Aplicada,ZONA CENTRAL,Con posiciones fijas el objetivo es mantener la posición y posesión.
+PRIN003,RONDOS TRANSICIÓN,Técnica Aplicada,ZONA CENTRAL,Sin posiciones fijas el objetivo es mantener la presión y cambiar de espacios.
+PRIN004,RONDOS DESCARGA,Técnica Aplicada,ZONA CENTRAL,"Con y sin posiciones fijas, trasladar el juego a otra zona tras cumplir pautas."
+PRIN005,SISTEMA,Técnica Aplicada,ÁREA GRANDE,Forma en que los jugadores de un equipo cumplen con normas defensivas y ofensivas.
+PRIN006,ESTRATEGIA,Técnica Aplicada,ÁREA GRANDE,Conjunto de maniobras para superar y obtener ventaja en cualquier situación.
+PRIN007,PARTIDOS REDUCIDOS,Técnica Aplicada,ZONA CENTRAL,"Juego entre dos equipos en campo reducido, condicionado con variantes y objetivos."
+PRIN008,PARTIDO,Técnica Aplicada,CAMPO COMPLETO,Juego entre dos equipos de once jugadores en campo completo con reglas de juego.
+PRIN009,BALÓN PARADO,Técnica Aplicada,ÁREA GRANDE,"Estrategia ofensiva y defensiva de equipo con balón parado, apoyado en el reglamento."
+PRIN010,Principio,Técnica Aplicada,Área sugerida,Teoría
+PRIN011,Acción combinada,Técnica Aplicada,PASILLO INTERNO,"Jugada de organización y objetivo coordinado con balón, utilizándola en juego real."
+PRIN012,Apoyo,Técnica Aplicada,PASILLO INTERNO,"Acercarse o alejarse del poseedor del balón, con diferentes direcciónes y distancias."
+PRIN013,Ayuda permanente,Técnica Aplicada,BANDA,Soluciones favorables que ofrecen al poseedor del balón sus compañeros.
+PRIN014,Cambio ritmo,Técnica Aplicada,PASILLO INTERNO,Distintas intensidades en el juego.
+PRIN015,Circulación,Técnica Aplicada,ZONA CENTRAL,"Movilizar y mantener un equilibrio con el balón entre apoyos delante, atrás, a los lados."
+PRIN016,Conservación,Técnica Aplicada,ZONA CENTRAL,No perder la iniciativa en el juego a traves del balón.
+PRIN017,Contraataque,Técnica Aplicada,ZONA CENTRAL,"Llegar a portería contraria, rápido, que no pueda organizarse en defensa el rival."
+PRIN018,Crea espacios,Técnica Aplicada,PASILLO INTERNO,"Abandonar un espacio, arrastrando al rival que lo marcaba, y un compañero lo ocupa."
+PRIN019,Desmarque apoyo,Técnica Aplicada,ZONA CENTRAL,Huir del adversario hacia el poseedor del balón cuando nuestro equipo tiene posesión.
+PRIN020,Desmarque ruptura,Técnica Aplicada,BANDA,Huir del adversario hacia adelante cuando nuestro equipo tiene la posesión.
+PRIN021,Descarga,Técnica Aplicada,BANDA,Pase o jugada rápida que cambian la dirección y zona del juego.
+PRIN022,Desdoblamientos,Técnica Aplicada,BANDA,"Intercambio de posición, y de rol, de 2 o más jugadores de la misma o de distinta línea."
+PRIN023,Juego directo,Técnica Aplicada,ZONA CENTRAL,"Jugada vertical de pocos pases, con objetivos de finalizar con éxito en porteria rival."
+PRIN024,Pared,Técnica Aplicada,PASILLO INTERNO,"Entrega y devolución a un toque, del balón, entre 2 o más jugadores."
+PRIN025,Pase filtrado,Técnica Aplicada,ZONA CENTRAL,"Pase vertical, lanzado entre lineas en zonas de definición del campo rival. "
+PRIN026,Posesión corta,Técnica Aplicada,PASILLO INTERNO,"Reiteradas acciones que realiza un equipo con el balón, de corta duración en tiempo."
+PRIN027,Posesión larga,Técnica Aplicada,ZONA CENTRAL,"Reiteradas acciones que realiza un equipo con el balón, de larga duración en tiempo."
+PRIN028,Progresión,Técnica Aplicada,ZONA CENTRAL,Avanzar sobre la portería contraria de manera notoria y clara.
+PRIN029,Relevo,Técnica Aplicada,BANDA,Ocupar el lugar dejado por un compañero que marchó al ataque.
+PRIN030,Ritmo juego,Técnica Aplicada,PASILLO INTERNO,Intensidad en las maniobras de un equipo.
+PRIN031,Salida,Técnica Aplicada,ÁREA GRANDE,Movimientos variados efectivos para sacar el balón desde su campo de forma exitosa.
+PRIN032,Temporizar,Técnica Aplicada,ZONA CENTRAL,Acciones ofensivas lentas hechas con astucia para algún fin con el balón.
+PRIN033,Anticipación,Defensiva,PASILLO INTERNO,Acción física y mental sobre el contrario que hace efectivo el marcaje.
+PRIN034,Barrida,Defensiva,PASILLO INTERNO,Acción defensiva en extender una pierna para alejar el balón y así quitárselo al rival.
+PRIN035,Basculación,Defensiva,ZONA CENTRAL,Desplazamiento del equipo de forma lateral en función a donde se encuentre el balón.
+PRIN036,Cobertura,Defensiva,BANDA,Prever que un compañero puede ser desbordado ayuda provocar la recuperación.
+PRIN037,Entrada,Defensiva,ZONA CENTRAL,Acción que realiza un jugador para quitarle el balón a un contrario.
+PRIN038,Interceptación,Defensiva,PASILLO INTERNO,"Acción sobre el balón, cortando su trayectoria para que no llegue a su destino."
+PRIN039,Marcajes mixtos,Defensiva,ÁREA GRANDE,Marca al futbolista que entre en la zona hasta que acabe la jugada.
+PRIN040,Presión,Defensiva,ÁREA GRANDE,"Reiterados acciones que realiza un equipo con el balón, maniobrando, sin perderlo."
+PRIN041,Repliegue,Defensiva,ZONA CENTRAL,Retroceso de un equipo cuando pierden el balón quedando organizado en defensa.
+PRIN042,Vigilancia,Defensiva,ÁREA GRANDE,Controlar al adversario cuando nuestro equipo tiene el balón.
+PRIN043,Saques banda propio campo,Balón Parado,BANDA,"Jugada de organización en campo propio, jugado con las manos."
+PRIN044,Saques banda campo rival,Balón Parado,BANDA,"Jugada de organización en campo rival, jugado con las manos."
+PRIN045,Faltas directas,Balón Parado,PASILLO INTERNO,Tiro o centro que se puede lanzar directamente sobre la portería contraria.
+PRIN046,Faltas indirectas,Balón Parado,BANDA,Tiro o centro a dos toques que se puede lanzar sobre portería rival.
+PRIN047,Tiros de esquina,Balón Parado,ÁREA GRANDE,Centro que se realiza desde la esquina de los límites del campo con el pie.
+PRIN048,Penales,Balón Parado,ÁREA GRANDE,"Tiro libre a una distancia de 11 metros de la portería, se ejecuta dentro del area grande."
+PRIN049,Permuta,Balón Parado,ZONA CENTRAL,Cambio de posición dentro de una misma línea.
+PRIN050,Principio,Técnica Aplicada,Área sugerida,Teoría
+PRIN051,1C1-2C2,Técnica Aplicada,BANDA,A.T.I. Superar por medio de habilidades a un adversario o más.
+PRIN052,Cabeceo,Técnica Aplicada,ÁREA GRANDE,A.T.I. Golpear el balón con la cabeza
+PRIN053,Centro,Técnica Aplicada,BANDA,A.T.C.Transimision del balón a un toque o más al area rival.
+PRIN054,Control,Técnica Aplicada,ZONA CENTRAL,A.T.I. Apoderarse el balón para realizar una acción posterior.
+PRIN055,Conducción,Técnica Aplicada,ZONA CENTRAL,A.T.I. Manejar el balón en su rodar por el terreno de juego.
+PRIN056,Pase,Técnica Aplicada,ZONA CENTRAL,A.T.C. Transimision del balón a un toque o más.
+PRIN057,Pase largo,Técnica Aplicada,BANDA,A.T.C. Transimision del balón a un toque o más con mayor distancia y altura.
+PRIN058,Pase medio,Técnica Aplicada,ZONA CENTRAL,A.T.C. Transimision del balón a un toque o más con media distancia y altura.
+PRIN059,Regate,Técnica Aplicada,BANDA,A.T.I. Desbordar al contrario para evitar su participación en el juego.
+PRIN060,Tiro,Técnica Aplicada,ZONA CENTRAL,A.T.I. Enviar el balón hacia la portería contraria con la intención de hacer gol.
+PRIN061,Saque de Banda,Técnica Aplicada,BANDA,"A.T.C. Con las manos, cuande este ha salido por las lineas laterales del campo."
